@@ -34,12 +34,19 @@ The Bloat Gap: Analyzed the increasing gap between Main Story length and 100% Co
 
 🖼️ Dashboard Preview
 Click on a screenshot to view full resolution.
-Financial & Market Performance	World & Gameplay Evolution
-![alt text](PowerBI_Report/Screenshots/Global_Ledger.png)
-![alt text](PowerBI_Report/Screenshots/World_Evolution.png)
-The Content Bloat Analysis	Animus Game Archive
-![alt text](PowerBI_Report/Screenshots/Bloat_Gap.png)
-![alt text](PowerBI_Report/Screenshots/Game_Archive.png)
+Financial & Market Performance
+<img width="1303" height="733" alt="image" src="https://github.com/user-attachments/assets/1505b902-c17f-4832-ba53-5558dbab83fd" />
+
+Gameplay & Map Evolution
+<img width="1308" height="733" alt="image" src="https://github.com/user-attachments/assets/d095f2ad-63fd-43b2-be3a-ad5067d000c4" />
+
+The Content Bloat Analysis & Skill System Complexity
+<img width="1312" height="737" alt="image" src="https://github.com/user-attachments/assets/93c232b2-4c06-4082-94f9-49061a72ba01" />
+
+Animus Game Archive & Example 
+<img width="1307" height="737" alt="image" src="https://github.com/user-attachments/assets/c04074ad-6546-48b8-a49b-64ef47c974ff" />
+<img width="1310" height="735" alt="image" src="https://github.com/user-attachments/assets/2dc5b4e2-bc61-4a1e-b709-1f503744aae7" />
+
 📂 Project Structure
 SQL_Scripts/: Contains .sql files for schema creation and data insertion.
 PowerBI_Report/: Contains the .pbix report file and custom .json theme.
