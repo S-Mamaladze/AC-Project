@@ -25,4 +25,4 @@ DIVIDE(
 )
 
 -- Total Map Size
-8. Total KM2 = SUM(Map_Statistics[map_size_km2])
+8. Total KM2 = SUM(Map_Statistics[map_size_km2]) 
