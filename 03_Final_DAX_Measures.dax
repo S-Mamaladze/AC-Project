@@ -1,0 +1,28 @@
+-- Avarage Bloat
+1. Avg Bloat = AVERAGE(Games[completionist_hours]) / AVERAGE(Games[main_story_hours])
+
+-- Map size for card
+2. Card_MapSize = SELECTEDVALUE(Map_Statistics[map_size_km2]) & "km²"
+
+-- Revenue for card
+3. Card_Revenue = "$" & SELECTEDVALUE(Financials[revenue_usd_million]) & "M"
+
+-- Destiny for card
+4. Display_Density = ROUND([Mission Density Value], 2) & " missions / km²"
+
+-- ROI
+5. Franchise ROI = DIVIDE(SUM(Financials[net_profit_million]), SUM(Financials[budget_usd_million]))
+
+-- Count Games
+6. Legacy Count = COUNTROWS(Games)
+
+-- Density Value
+7. Mission Density Value = 
+DIVIDE(
+    SUM(Narrative_Missions[total_mission_count]), 
+    SUM(Map_Statistics[map_size_km2]), 
+    0
+)
+
+-- Total Map Size
+8. Total KM2 = SUM(Map_Statistics[map_size_km2])
