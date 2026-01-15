@@ -1,5 +1,6 @@
 # 🛡️ The Creed Chronicles: 15 Years of Data Odyssey
 ## An End-to-End SQL & Analysis of the Assassin's Creed Franchise
+This is my first end-to-end data project. I am actively learning and welcome any feedback!
 
 ## 📌 Project Overview
 The Creed Chronicles is a comprehensive data analytics project that explores the evolution of the Assassin’s Creed franchise from its inception in 2007 to the upcoming Shadows in 2025.
