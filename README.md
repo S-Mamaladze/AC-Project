@@ -6,6 +6,19 @@ This is my first end-to-end data project. I am actively learning and welcome any
 The Creed Chronicles is a comprehensive data analytics project that explores the evolution of the Assassin’s Creed franchise from its inception in 2007 to the upcoming Shadows in 2025.
 The project solves a "Business Intelligence" problem: How has the shift from linear action-adventure to massive RPGs affected the franchise's financial ROI, content density, and player engagement?
 
+## 💡 Why I Built This
+I developed this project to bridge the gap between large-scale gaming datasets and actionable business intelligence. As a lifelong fan of the franchise, I noticed a common debate regarding "game bloat" and financial performance, so I decided to quantify these trends using a data-driven approach.
+
+The primary goals of this project were to:
+
+Demonstrate BI Architecture: Build a multi-layered dashboard ecosystem in Power BI that allows users to drill down from high-level franchise "Eras" into specific game metrics.
+
+Complex Data Modeling: Connect disparate data points—ranging from financial budgets and revenue to map sizes (km²) and skill tree complexity—into a single cohesive Star Schema.
+
+Storytelling with Data: Move beyond simple charts to create a "visual narrative" that explains the 15-year evolution of a global entertainment franchise.
+
+Technical Mastery: Showcase advanced DAX measures and ETL processes required to clean and normalize "noisy" historical data for professional-grade reporting.
+
 ## 🚀 Key Features
 Normalized SQL Database: A robust schema of 15+ tables tracking everything from financial budgets to Piece of Eden lore.
 Advanced Analytics: Custom KPIs like "Content Bloat Factor," "Mission Density," and "Revenue Efficiency."
